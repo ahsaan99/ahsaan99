@@ -30,7 +30,7 @@ My journey began with **web development**, then expanded into **Python, AI, comp
 <td width="40%" valign="top" align="center">
 
 ```yaml
-name: Ahsaan
+whoami: ahsaan99
 location: United Arab Emirates 🇦🇪
 role: Student Developer
 focus:
@@ -38,12 +38,26 @@ focus:
   - Computer Vision
   - Robotics
   - Software Engineering
+status: "compiling ideas..."
 mindset: "Learn by building"
 ```
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────┐
+│  $ whoami                                             │
+│  > ahsaan99 — building intelligent systems since day1 │
+│  $ ping curiosity                                     │
+│  > 64 bytes from brain: time=∞ (always learning)      │
+└──────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
@@ -140,6 +154,7 @@ A smart agriculture robot that monitors soil conditions and supports automated p
 ### 🌐 Personal Portfolio Website
 A modern portfolio showcasing my projects, technical skills, and development journey.
 
+<a href="https://ahsaan99.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Live%20Demo-00c6ff?style=flat-square&logo=vercel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </td>
@@ -148,7 +163,7 @@ A modern portfolio showcasing my projects, technical skills, and development jou
 
 </div>
 
-> 💡 Replace the badges above with links to your actual repos, e.g. `[🤖 JARVIS](https://github.com/YOUR-USERNAME/jarvis-assistant)`
+> 💡 Tip: link each project title to its actual repo, e.g. `[🤖 JARVIS](https://github.com/ahsaan99/jarvis-assistant)` — GitHub markdown doesn't allow real `<a>` buttons on plain text, only on badges/images like above.
 
 ---
 
@@ -156,14 +171,13 @@ A modern portfolio showcasing my projects, technical skills, and development jou
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&border_radius=10" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&border_radius=10" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsaan99&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="90%"/>
 
 </div>
+
+
 
 ---
 
@@ -210,14 +224,15 @@ I enjoy exploring emerging technologies, tackling challenging problems, and cont
 ---
 
 <details>
-<summary><b>🐍 Contribution Snake (click to expand setup)</b></summary>
+<summary><b>🐍 Contribution Snake (click to expand setup — animated eating snake of your commit graph)</b></summary>
 
 <br/>
 
-Add this GitHub Action to generate an animated contribution snake, then reference it below:
+This one needs a tiny one-time GitHub Action setup in your `ahsaan99/ahsaan99` repo — it can't run automatically from just the README:
+
+1. Create `.github/workflows/snake.yml` in your profile repo with:
 
 ```yaml
-# .github/workflows/snake.yml
 name: generate snake
 on:
   schedule:
@@ -231,7 +246,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR-USERNAME
+          github_user_name: ahsaan99
           outputs: dist/github-contribution-grid-snake.svg
       - uses: peaceiris/actions-gh-pages@v3
         with:
@@ -240,9 +255,11 @@ jobs:
           publish_branch: output
 ```
 
-Then embed it:
+2. Push it once (or run it manually from the Actions tab).
+3. Then embed it here:
+
 ```md
-![snake gif](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ahsaan99/ahsaan99/output/github-contribution-grid-snake.svg)
 ```
 
 </details>
@@ -253,10 +270,10 @@ Then embed it:
 
 ## 📫 Let's Connect
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://ahsaan99.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:bossandco99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/ahsaan_mohamed_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/ahsaan99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
