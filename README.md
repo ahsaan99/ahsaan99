@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Ahsaan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Robotics%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/ahsaan99">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+Ahsaan+%F0%9F%91%8B;Student+Developer+from+the+UAE+%F0%9F%87%A6%F0%9F%87%AA;Building+AI+%2B+Computer+Vision+%2B+Robotics+%F0%9F%A4%96;Turning+Ideas+Into+Real-World+Systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&color=0f2027&labelColor=00c6ff" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=ahsaan99&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/ahsaan99?label=Followers&style=for-the-badge&color=0f2027&labelColor=00c6ff" alt="followers"/>
 <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-2c5364?style=for-the-badge&labelColor=00c6ff" alt="status"/>
 
 </div>
