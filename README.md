@@ -153,7 +153,7 @@ A smart agriculture robot that monitors soil conditions and supports automated p
 
 ### 🌐 Personal Portfolio Website
 A modern portfolio showcasing my projects, technical skills, and development journey.
-
+  https://ahsaan99.github.io/PORTFOLIO/
 <a href="https://ahsaan99.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Live%20Demo-00c6ff?style=flat-square&logo=vercel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
@@ -163,9 +163,6 @@ A modern portfolio showcasing my projects, technical skills, and development jou
 
 </div>
 
-> 💡 Tip: link each project title to its actual repo, e.g. `[🤖 JARVIS](https://github.com/ahsaan99/jarvis-assistant)` — GitHub markdown doesn't allow real `<a>` buttons on plain text, only on badges/images like above.
-
----
 
 ## 📊 GitHub Stats
 
@@ -224,43 +221,10 @@ I enjoy exploring emerging technologies, tackling challenging problems, and cont
 ---
 
 <details>
-<summary><b>🐍 Contribution Snake (click to expand setup — animated eating snake of your commit graph)</b></summary>
+<summary><b>🐍 Contribution Snake (click to expand setup — animated eating snake of your commit graph)
 
-<br/>
-
-This one needs a tiny one-time GitHub Action setup in your `ahsaan99/ahsaan99` repo — it can't run automatically from just the README:
-
-1. Create `.github/workflows/snake.yml` in your profile repo with:
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches: [ main ]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ahsaan99
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-```
-
-2. Push it once (or run it manually from the Actions tab).
-3. Then embed it here:
-
-```md
 ![snake gif](https://raw.githubusercontent.com/ahsaan99/ahsaan99/output/github-contribution-grid-snake.svg)
-```
+
 
 </details>
 
