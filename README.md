@@ -24,7 +24,7 @@
 
 I'm a passionate **student developer from the United Arab Emirates** with a deep interest in **Artificial Intelligence, Computer Vision, Robotics, and Software Engineering**. I love turning innovative ideas into practical projects that solve real problems — and push me to keep learning.
 
-My journey began with **web development**, then expanded into **Python, AI, computer vision, embedded systems**, and modern software architecture. I enjoy building intelligent systems that fuse **software + hardware** — from gesture recognition and AI assistants to robotics and automation.
+My journey  began with **web development**, then expanded into **Python, AI, computer vision, embedded systems**, and modern software architecture. I enjoy building intelligent systems that fuse **software + hardware** — from gesture recognition and AI assistants to robotics and automation.
 
 </td>
 <td width="40%" valign="top" align="center">
